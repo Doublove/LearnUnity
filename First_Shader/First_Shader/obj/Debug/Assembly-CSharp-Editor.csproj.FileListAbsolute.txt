@@ -1,0 +1,1 @@
+D:\UnityProj\First_Shader\First_Shader\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
